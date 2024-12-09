@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "DeineTokenContractAdresse",
+  "symbol": "MOLLI",
+  "name": "MOLLI",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/deinUserName/token-list/main/assets/mainnet/DeineTokenContractAdresse/logo.png",
+  "tags": ["meme", "community"]
+}
